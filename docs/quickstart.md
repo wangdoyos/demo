@@ -2,7 +2,7 @@
 
 ## 访问github
 
-访问示例项目的github地址：https://github.com/wangdoyos/wangdoyos.github.io
+访问示例项目的github地址：https://github.com/wangdoyos/demo
 
 ![github页面](_media/img_1.png)
 
